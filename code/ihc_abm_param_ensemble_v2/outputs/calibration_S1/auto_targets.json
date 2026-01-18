@@ -1,0 +1,50 @@
+{
+  "flow_share_county_mean": {
+    "center": 0.44745672387759744
+  },
+  "flow_share_primary_mean": {
+    "center": 0.5525432737358664
+  },
+  "insurance_total_mean": {
+    "center": 191557.8922628497
+  },
+  "insurance_county_share_mean": {
+    "center": 0.77220029173336
+  },
+  "insurance_primary_share_mean": {
+    "center": 0.22779970826663995
+  },
+  "referral_success_rate_mean": {
+    "center": 0.0
+  },
+  "severity_county_mean": {
+    "center": 0.5845679281779824
+  },
+  "severity_primary_mean": {
+    "center": 0.2505640485235245
+  },
+  "capacity_county_last": {
+    "center": 1500.0
+  },
+  "capacity_county_mean": {
+    "center": 1500.0
+  },
+  "capacity_secondary_last": {
+    "center": 208.24907170752823
+  },
+  "capacity_secondary_mean": {
+    "center": 214.51899204960438
+  },
+  "capacity_township_last": {
+    "center": 601.3947361898797
+  },
+  "capacity_township_mean": {
+    "center": 601.3947361898793
+  },
+  "capacity_primary_last": {
+    "center": 809.6438078974079
+  },
+  "capacity_primary_mean": {
+    "center": 815.9137282394842
+  }
+}

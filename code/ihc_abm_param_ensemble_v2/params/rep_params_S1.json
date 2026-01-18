@@ -1,0 +1,5 @@
+{
+  "ALPHA_Q_UPD": 0.25,
+  "TAU_A_START": 0.30,
+  "TAU_A_END": 0.05
+}

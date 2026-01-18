@@ -1,0 +1,8 @@
+{
+  "flow_share_county_mean":        {"low": 0.40, "high": 0.60},
+  "insurance_total_mean":          {"low": 140000, "high": 190000},
+  "insurance_county_share_mean":   {"low": 0.70, "high": 0.80},
+  "severity_county_mean":          {"low": 0.5, "high": 0.9},
+  "capacity_county_last":          {"low": 800, "high": 1500},
+  "capacity_primary_last":         {"low": 650,  "high": 900}
+}

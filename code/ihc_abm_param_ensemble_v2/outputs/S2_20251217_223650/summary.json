@@ -1,0 +1,18 @@
+{
+  "flow_share_county_mean": 0.029147512749860438,
+  "flow_share_primary_mean": 0.9708524847778097,
+  "insurance_total_mean": 96267.58335946106,
+  "insurance_county_share_mean": 0.11872432098730974,
+  "insurance_primary_share_mean": 0.8812756790126903,
+  "referral_success_rate_mean": 0.0,
+  "severity_county_mean": 0.806468405623905,
+  "severity_primary_mean": 0.3653716614809206,
+  "capacity_county_last": 85.00066869753803,
+  "capacity_county_mean": 109.14305991359599,
+  "capacity_secondary_last": 161.7641864,
+  "capacity_secondary_mean": 173.97383516923057,
+  "capacity_township_last": 800.0,
+  "capacity_township_mean": 799.3076923076923,
+  "capacity_primary_last": 961.7641864,
+  "capacity_primary_mean": 973.2815274769232
+}
